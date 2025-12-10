@@ -2,6 +2,10 @@
 
 An AI-powered chatbot designed to answer queries related to the Constitution of Nepal with high accuracy. This project utilizes **Retrieval-Augmented Generation (RAG)** to ground the LLM's responses in the actual legal text, minimizing hallucinations and providing source-backed answers.
 
+## Output
+<img width="1440" height="819" alt="Screenshot 2025-12-10 at 7 52 31 PM" src="https://github.com/user-attachments/assets/4accdb83-36fe-4ccd-9a1f-620e28b64031" />
+<img width="1440" height="819" alt="Screenshot 2025-12-10 at 7 54 16 PM" src="https://github.com/user-attachments/assets/f5610177-ea94-4a91-92cd-b0fe339cf7a1" />
+
 ##  Features
 
 - **Hybrid Retrieval System**: Combines **Dense Vector Search** (semantic understanding) and **BM25** (keyword matching) using **Reciprocal Rank Fusion (RRF)** for superior retrieval accuracy.
