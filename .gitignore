@@ -1,0 +1,11 @@
+__pycache__
+.git
+chroma_db_constitution
+Constitution_Document
+venv
+.env
+chunks_log.txt
+chunks_log1.txt
+chat_history.json
+
+
