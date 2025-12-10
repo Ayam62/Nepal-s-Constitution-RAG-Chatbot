@@ -44,7 +44,7 @@ An AI-powered chatbot designed to answer queries related to the Constitution of 
 
 ### 1. Clone the Repository
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Ayam62/Nepal-s-Constitution-RAG-Chatbot
 cd "Nepal's Constitution RAG"
 ```
 
@@ -107,5 +107,3 @@ Open your browser and navigate to:
 - **429 Resource Exhausted**: If using the free tier of Gemini, you might hit rate limits. Wait for a minute or switch to `gemini-1.5-flash` in `llm.py`.
 - **ChromaDB Errors**: If you change the embedding model, you must delete the existing `chroma_db_constitution` folder and re-run `ingestion_pipeline.py`.
 
-## 📜 License
-[MIT](https://choosealicense.com/licenses/mit/)
